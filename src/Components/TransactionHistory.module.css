@@ -1,0 +1,20 @@
+.transactionHistory {
+    width: 60%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    margin: auto;
+}
+/* Стилі для заголовків таблиці */
+.transactionHistory th {
+    background-color: lightblue;
+    padding: 8px;
+    text-align: center;
+}
+
+/* Стилі для комірок таблиці */
+.transactionHistory td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+
+}
